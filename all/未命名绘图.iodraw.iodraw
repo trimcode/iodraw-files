@@ -17,10 +17,10 @@
           <mxGeometry x="405" y="380" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-7" value="模型库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#c8c8c8;" vertex="1" parent="1">
-          <mxGeometry x="320" y="460" width="60" height="80" as="geometry" />
+          <mxGeometry x="320" y="470" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-8" value="行业知识库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#c8c8c8;" vertex="1" parent="1">
-          <mxGeometry x="415" y="470" width="60" height="80" as="geometry" />
+          <mxGeometry x="410" y="470" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
