@@ -251,7 +251,7 @@
           <mxGeometry x="540" y="1057.5" width="82.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-99" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#c8c8c8;" vertex="1" parent="1">
-          <mxGeometry x="640" y="1060" width="82.5" height="65" as="geometry" />
+          <mxGeometry x="650" y="1057.5" width="82.5" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
