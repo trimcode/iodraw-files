@@ -82,8 +82,8 @@
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="310" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z4nCuy7-SAYdNNYt3vvS-39" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;知识库管理&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="97.5" y="230" width="52.5" height="30" as="geometry" />
+        <mxCell id="Z4nCuy7-SAYdNNYt3vvS-39" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;RAG&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="97.5" y="230" width="52.5" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
