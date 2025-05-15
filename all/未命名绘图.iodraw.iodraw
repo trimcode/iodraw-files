@@ -50,7 +50,7 @@
           <mxGeometry x="110" y="530" width="125" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-23" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.twoWayArrow;dy=0.5;dx=26;" vertex="1" parent="1">
-          <mxGeometry x="235" y="440" width="75" height="20" as="geometry" />
+          <mxGeometry x="245" y="455" width="55" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
