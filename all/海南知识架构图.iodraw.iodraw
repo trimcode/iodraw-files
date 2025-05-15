@@ -130,6 +130,9 @@
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-57" value="基础知识库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#c8c8c8;" vertex="1" parent="1">
           <mxGeometry x="495" y="420" width="70" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Z4nCuy7-SAYdNNYt3vvS-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Z4nCuy7-SAYdNNYt3vvS-58" target="Z4nCuy7-SAYdNNYt3vvS-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-58" value="模型库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#c8c8c8;" vertex="1" parent="1">
           <mxGeometry x="325" y="420" width="70" height="70" as="geometry" />
         </mxCell>
