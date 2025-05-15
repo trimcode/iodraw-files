@@ -241,6 +241,9 @@
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-95" value="PgSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#c8c8c8;" vertex="1" parent="1">
           <mxGeometry x="217.5" y="1055" width="70" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Z4nCuy7-SAYdNNYt3vvS-96" value="PgSQL" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#c8c8c8;" vertex="1" parent="1">
+          <mxGeometry x="227.5" y="1065" width="70" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
