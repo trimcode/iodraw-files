@@ -77,10 +77,7 @@
           <mxGeometry x="90" y="220" width="700" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-37" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="380" y="350" width="70" height="100" as="geometry" />
-        </mxCell>
-        <mxCell id="Z4nCuy7-SAYdNNYt3vvS-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.145;exitY=0;exitDx=0;exitDy=4.35;exitPerimeter=0;entryX=0.94;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z4nCuy7-SAYdNNYt3vvS-10" target="Z4nCuy7-SAYdNNYt3vvS-37">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="395" y="300" width="70" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
