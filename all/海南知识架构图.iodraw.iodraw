@@ -265,8 +265,8 @@
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-103" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;插件服务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c8c8c8;" vertex="1" parent="1">
           <mxGeometry x="335.25" y="910" width="105" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z4nCuy7-SAYdNNYt3vvS-104" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;插件服务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c8c8c8;" vertex="1" parent="1">
-          <mxGeometry x="345.25" y="920" width="105" height="60" as="geometry" />
+        <mxCell id="Z4nCuy7-SAYdNNYt3vvS-104" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;代码执行服务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c8c8c8;" vertex="1" parent="1">
+          <mxGeometry x="455" y="910" width="105" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
