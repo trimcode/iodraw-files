@@ -271,8 +271,8 @@
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-105" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;日志服务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c8c8c8;" vertex="1" parent="1">
           <mxGeometry x="536.25" y="910" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z4nCuy7-SAYdNNYt3vvS-106" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;日志服务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c8c8c8;" vertex="1" parent="1">
-          <mxGeometry x="546.25" y="920" width="90" height="60" as="geometry" />
+        <mxCell id="Z4nCuy7-SAYdNNYt3vvS-106" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;鉴权中心&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c8c8c8;" vertex="1" parent="1">
+          <mxGeometry x="642.5" y="910" width="90" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
