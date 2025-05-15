@@ -286,7 +286,7 @@
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-110" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;网关&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c8c8c8;" vertex="1" parent="1">
           <mxGeometry x="312.5" y="790" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z4nCuy7-SAYdNNYt3vvS-111" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;代码执行服务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c8c8c8;" vertex="1" parent="1">
+        <mxCell id="Z4nCuy7-SAYdNNYt3vvS-111" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;api服务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c8c8c8;" vertex="1" parent="1">
           <mxGeometry x="421.5" y="790" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-112" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;模型配置服务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c8c8c8;" vertex="1" parent="1">
