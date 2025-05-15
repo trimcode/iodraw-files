@@ -242,13 +242,13 @@
           <mxGeometry x="217.5" y="1060" width="82.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-96" value="ElasticSearch" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#c8c8c8;" vertex="1" parent="1">
-          <mxGeometry x="315" y="1060" width="85" height="65" as="geometry" />
+          <mxGeometry x="340" y="1060" width="85" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-97" value="Milvus" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#c8c8c8;" vertex="1" parent="1">
-          <mxGeometry x="412.5" y="1060" width="82.5" height="65" as="geometry" />
+          <mxGeometry x="440.25" y="1057.5" width="82.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-98" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#c8c8c8;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1060" width="82.5" height="65" as="geometry" />
+          <mxGeometry x="540" y="1057.5" width="82.5" height="65" as="geometry" />
         </mxCell>
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-99" value="Redis" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#c8c8c8;" vertex="1" parent="1">
           <mxGeometry x="640" y="1060" width="82.5" height="65" as="geometry" />
