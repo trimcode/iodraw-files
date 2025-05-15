@@ -31,8 +31,8 @@
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-13" value="行业知识库" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#c8c8c8;" vertex="1" parent="1">
           <mxGeometry x="405" y="490" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Z4nCuy7-SAYdNNYt3vvS-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="370" width="170" height="200" as="geometry" />
+        <mxCell id="Z4nCuy7-SAYdNNYt3vvS-16" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dedede;align=center;" vertex="1" parent="1">
+          <mxGeometry x="310" y="380" width="280" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
