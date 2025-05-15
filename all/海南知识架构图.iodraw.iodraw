@@ -307,7 +307,7 @@
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-117" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;H5&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c8c8c8;" vertex="1" parent="1">
           <mxGeometry x="312.5" y="660" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Z4nCuy7-SAYdNNYt3vvS-118" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;js sdk&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c8c8c8;" vertex="1" parent="1">
+        <mxCell id="Z4nCuy7-SAYdNNYt3vvS-118" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;js&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c8c8c8;" vertex="1" parent="1">
           <mxGeometry x="421.5" y="660" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Z4nCuy7-SAYdNNYt3vvS-119" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;socket服务&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c8c8c8;" vertex="1" parent="1">
